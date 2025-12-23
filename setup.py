@@ -1,0 +1,53 @@
+"""
+Setup script for CloudGuard-AI package
+"""
+
+from setuptools import setup, find_packages
+from pathlib import Path
+
+# Read README
+readme_file = Path(__file__).parent / "README.md"
+if readme_file.exists():
+    with open(readme_file, "r", encoding="utf-8") as f:
+        long_description = f.read()
+else:
+    long_description = "AI-Powered AWS CloudTrail Threat Detection System"
+
+# Read requirements
+requirements_file = Path(__file__).parent / "requirements.txt"
+if requirements_file.exists():
+    with open(requirements_file, "r", encoding="utf-8") as f:
+        requirements = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+else:
+    requirements = []
+
+setup(
+    name="cloudguard-ai",
+    version="0.1.0",
+    author="Noble W. Antwi",
+    author_email="amnworlanyo@gmail.com",
+    description="AI-Powered AWS CloudTrail Threat Detection System",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    url="https://github.com/YOUR_USERNAME/cloudguard-ai",
+    packages=find_packages(where="src"),
+    package_dir={"": "src"},
+    classifiers=[
+        "Development Status :: 3 - Alpha",
+        "Intended Audience :: Information Technology",
+        "Topic :: Security",
+        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.11",
+    ],
+    python_requires=">=3.11",
+    install_requires=requirements,
+    extras_require={
+        "dev": [
+            "pytest>=8.0.0",
+            "pytest-cov>=4.1.0",
+            "black>=24.2.0",
+            "flake8>=7.0.0",
+        ],
+    },
+)

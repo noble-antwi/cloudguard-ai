@@ -243,9 +243,9 @@ def main():
     """
     Example usage of anomaly detector.
     """
-    from data_ingestion import CloudTrailIngestion
-    from data_preprocessing import DataPreprocessor
-    from feature_engineering import FeatureEngineer
+    from data.data_ingestion import CloudTrailIngestion
+    from data.data_preprocessing import DataPreprocessor
+    from data.feature_engineering import FeatureEngineer
     
     # Set up logging
     logging.basicConfig(level=logging.INFO)

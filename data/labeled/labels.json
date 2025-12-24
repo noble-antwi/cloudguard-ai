@@ -1,4004 +1,4004 @@
 {
   "event_labels": {
-    "evt-exfil-794360": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-652432": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-604053": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-normal-731490-8684": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-780590-9112": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-297133-1652": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-241579-8257": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-993390-6302": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-474226-7462": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-245966-4794": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-976910-9992": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-399571-8759": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-794830-2732": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-331189-8761": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-516021-2815": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-411714-2753": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-807529-5176": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-877136-1405": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-253858-7203": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-683433-3233": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-454927-9259": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-247653-7162": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-989878-2792": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-551078-9399": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-850184-2222": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-privesc-140229": {
+    "evt-privesc-882093": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-cred-560980": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-privesc-355832": {
+    "evt-privesc-303093": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-868992": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-privesc-211247": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-privesc-637107": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-exfil-657274": {
+    "evt-exfil-781903": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-privesc-372563": {
+    "evt-normal-615453-8889": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-212757-2159": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-674975-8862": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-393982-4744": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-154882-1451": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-687846-5133": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-787821-5268": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-998962-9649": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-497139-1118": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-452972-6220": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-391270-8032": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-830267-3415": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-186119-7350": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-717609-5653": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-194167-5778": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-652535": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-cred-596694": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-768390": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-exfil-756942": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-recon-409610": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-privesc-318599": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-exfil-926296": {
+    "evt-exfil-436131": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-privesc-524970": {
+    "evt-privesc-360467": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-exfil-417396": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-recon-351151": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-privesc-501897": {
+    "evt-privesc-375907": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-exfil-753485": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-privesc-213446": {
+    "evt-privesc-942635": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-cred-861210": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-privesc-133587": {
+    "evt-privesc-695695": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-recon-739496": {
+    "evt-cred-648161": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-recon-207797": {
       "label": 3,
       "attack_type": "reconnaissance"
     },
-    "evt-recon-226111": {
+    "evt-cred-692980": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-546052-5864": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-370058": {
       "label": 3,
       "attack_type": "reconnaissance"
     },
-    "evt-privesc-444589": {
+    "evt-normal-995829-8024": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-809924-4154": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-683619-7908": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-725654-6435": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-874540-7557": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-941157-6952": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-309258-5114": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-752067-7090": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-635553-3459": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-164802-4472": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-500235-7564": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-571781-9310": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-878532-6499": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-732432-9232": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-529408-5936": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-988873-4966": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-425402-4160": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-337696": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-159424-8814": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-300357-1201": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-813227-7116": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-822924-8183": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-857323-6196": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-235927-4720": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-686877-1964": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-930800-4082": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-306193-2609": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-799067-6656": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-981374-9303": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-819316-5966": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-337993-6717": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-319316": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-627858-9212": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-541861-9972": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-834573-9366": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-924669-7642": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-792504-3759": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-392126-7670": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-902167-7627": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-816625-5721": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-977358-1324": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-268487-5266": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-509780-3234": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-110457-1884": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-426452-3876": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-933151-8649": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-299939-7145": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-818289-9683": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-569748-6762": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-404109-3462": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-405794-4180": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-858042-7867": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-987376-1624": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-660276-2081": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-654038-5647": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-105868-6161": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-632688-4467": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-800993-9915": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-808752-7610": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-100425-3764": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-121790-4546": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-558589-9415": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-198693-4010": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-954807-7814": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-936050-9990": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-301126-3296": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-963204-2148": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-699965-1079": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-572705-2795": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-124333-1784": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-100133-2479": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-493020-4559": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-184653-6573": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-726668-7677": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-471688-8003": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-770319-9976": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-604340-6709": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-504723-6857": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-692294-8617": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-770536-2119": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-612380-6508": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-751070-9724": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-331342-5980": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-544123-1448": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-729510-9358": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-948661-6850": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-856326-9307": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-148929-7037": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-965292-5946": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-502332-2644": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-636301-9857": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-435859": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-recon-463811": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-cred-859606": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-617289": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-exfil-977761": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-privesc-479866": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-600214": {
+    "evt-privesc-348030": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-cred-518517": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-recon-604854": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-recon-516722": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-857653-5108": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-239959-6621": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-973973-3438": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-635397-3102": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-963057-5610": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-827236-1428": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-951544-4704": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-956432-4821": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-152767-7799": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-280750-8236": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-676901-7025": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-466616-7071": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-185887": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-447048-8118": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-445761-2657": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-206638-5665": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-900387-2224": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-678379-7845": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-283637-1301": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-509150-3847": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-635795-5962": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-539786-4141": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-990558-9363": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-225521-4504": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-246799-2191": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-305049-5292": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-798502-3043": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-611632-3446": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-239979-3942": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-862019-4187": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-236663-7164": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-409741-3720": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-549276-7858": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-140572-3200": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-982348-5784": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-235274-7256": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-945478-6672": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-954791-2500": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-459791-8652": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-824799-4526": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-446651-7928": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-592077-3737": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-307007-7901": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-922539-3872": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-629684-8752": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-942438-8836": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-436960-5958": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-918587-2645": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-411431-6454": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-174762-7702": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-413128-8595": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-122833-5846": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-350702-3348": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-690261-2660": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-758420-4058": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-279097-4360": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-468843-5263": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-431549-9287": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-711743-3950": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-472974-4326": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-463622-1743": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-646347-2474": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-630290-5808": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-521859-9501": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-992736-1563": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-821726-3531": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-740761-4795": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-313675-3455": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-846277": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-835665-2030": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-832165-4298": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-867521-4444": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-138589-7470": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-523839-9191": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-161832-1387": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-807262-4881": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-120062-7887": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-257029-5369": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-417098-5889": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-343284-8816": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-125711-1132": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-399161-4948": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-552427-1157": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-324033-8403": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-438310-7153": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-446667-7118": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-389163-9446": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-736443-9661": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-649737-9775": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-694165-2559": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-206307-2182": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-312665-1182": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-777375-6048": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-104337-7377": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-731939-1015": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-426852-8498": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-869704-8031": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-520244-3885": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-941865-9753": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-536124-9468": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-737471-9211": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-716430": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-679311-3311": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-767167-2840": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-407489-3219": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-169353-7852": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-743793-6493": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-744033-4568": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-791190-4277": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-712641-3528": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-489173-2018": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-610092-7377": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-979283-9674": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-378189-4422": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-435815-5240": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-524739-5352": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-845942-4582": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-872501-9934": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-920135-3626": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-312138-6383": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-928822-1280": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-537614-6017": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-422553-1929": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-732717-1339": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-619155-1065": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-209369-2791": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-548344-4950": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-112792-6126": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-389143": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-recon-684309": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-recon-354567": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-recon-680098": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-exfil-343488": {
+    "evt-exfil-299599": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-recon-364598": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-privesc-119878": {
+    "evt-privesc-411269": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-cred-649451": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-privesc-513546": {
+    "evt-privesc-409266": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-exfil-406788": {
+    "evt-exfil-664172": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-cred-586118": {
+    "evt-cred-192520": {
       "label": 4,
       "attack_type": "credential_compromise"
     },
-    "evt-privesc-754352": {
+    "evt-privesc-179935": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-exfil-500351": {
+    "evt-recon-744646": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-exfil-968078": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-exfil-246116": {
+    "evt-exfil-102864": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-privesc-694538": {
+    "evt-privesc-972737": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-524003": {
+    "evt-privesc-162648": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-recon-414889": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-467365-7570": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-382222-1646": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-842621-7306": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-784074-9143": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-724939-2097": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-407409": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-recon-837379": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-239733-5334": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-128899": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-163493-5978": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-102453-2410": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-262645-8713": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-942849-2532": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-923731-7609": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-407887-6423": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-633269-4162": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-455639-7915": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-902659-6366": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-991756-5822": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-681271-9204": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-704991-5042": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-503953-3199": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-287113-7965": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-670777-8401": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-739664-2649": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-522543-4202": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-483551-3429": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-798995-4834": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-989214-3638": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-431458-3895": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-642050-3978": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-609891-1693": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-188163-7994": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-823962-8565": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-411223-8116": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-579330-7138": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-636104-4151": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-993240-2248": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-709133-9044": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-337388-6995": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-214264-9535": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-123263-6421": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-838450-6487": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-840986-6854": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-533148-7145": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-889533-1102": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-220598-4312": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-519840-2653": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-885260-6453": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-393599-5269": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-649833-2638": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-745579-3349": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-118056-9512": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-938061-3656": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-828244-3664": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-237384-8434": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-800753-9820": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-492395-7958": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-391165-5956": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-664734-6626": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-802083-3479": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-604667-4195": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-540292-8877": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-251500-1633": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-880974-3126": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-438848-9419": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-207145-2446": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-379014-3433": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-246477-2229": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-355978-9511": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-299793-7701": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-761857-8055": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-669079-7872": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-526506-5324": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-948587-7888": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-833591-2154": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-907742-7818": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-100170-8068": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-189545-6356": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-219427-4946": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-221752-4888": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-717534-8038": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-203258-6991": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-236752-8885": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-742522-2446": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-969662-8848": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-365262-1592": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-842306-7238": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-482054-9074": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-496308-2521": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-204505-6796": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-102413-6916": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-122525-7008": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-243464-2004": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-690379-6561": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-954400-1823": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-634174-6818": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-738890-4609": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-523174-4529": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-301882-9274": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-882249-5565": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-856747-9752": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-668284-2222": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-408915-6424": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-531685-2506": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-252056": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-cred-587532": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-cred-148915": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-cred-759309": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-exfil-528344": {
+    "evt-exfil-631246": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-exfil-590855": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-934718": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-privesc-238731": {
+    "evt-privesc-749820": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-exfil-154387": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-cred-118908": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-privesc-880557": {
+    "evt-privesc-475152": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-692766": {
+    "evt-recon-459862": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-privesc-738930": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-153230": {
+    "evt-privesc-318336": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-885216": {
+    "evt-cred-345120": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-recon-912975": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-190714-4827": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-899682-5408": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-947140-2967": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-427906-6423": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-803143-5534": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-669120-4238": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-623509-5547": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-731671-8353": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-555500-5300": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-979443-7410": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-325720-6404": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-882590-9457": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-453627-2738": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-732735-3257": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-919970-6008": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-153573-1615": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-505377-1637": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-273694-8120": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-634492-7209": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-757295-5613": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-331397-4691": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-634254-8519": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-919865-9688": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-755863-6820": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-242792-3181": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-905333-9441": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-979142-1400": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-575811-2715": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-956409": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-984717-4868": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-172863-3761": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-677182-6292": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-339850-4021": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-178671-9757": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-872539-5571": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-364513-1779": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-148054-3698": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-966950-9126": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-478481-7294": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-112169-4851": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-824721-4212": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-528469-9194": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-558233-1928": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-508924-8828": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-349605-4391": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-135274-1987": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-238790-5891": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-373538-4743": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-908486-6444": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-450653-1323": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-924290-3306": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-963341-8522": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-312033-9896": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-591488-4328": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-961974-5848": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-856895-7331": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-393098-1013": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-454212-4812": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-180256-5805": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-384085-3613": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-394841-2222": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-377492-3379": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-110347-6910": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-548900-4422": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-903752-7282": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-513988": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-277887-6165": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-505488-6862": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-435609-1288": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-223078-3733": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-723269-7421": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-513688-2104": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-595143-3547": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-133650-9060": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-312198-4234": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-517583-3914": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-946864-5424": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-592695-7695": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-948368-5819": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-204317-8625": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-823444-6752": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-287389-4082": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-839069-7007": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-635996-6618": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-533262-6632": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-400300-2013": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-377010-7944": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-539998-5997": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-407326-6142": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-592915-5519": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-453257-9941": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-659246-1701": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-202587-4643": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-552805-6969": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-706503-4124": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-669035-7380": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-826469-7056": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-523637-7172": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-714307-4157": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-530816-8928": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-814337-6323": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-798204-1400": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-864222-6951": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-550879-4246": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-631073-4192": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-467992": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-211296-5557": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-131212": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-362892-2218": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-358438-5730": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-334728-5640": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-394832-5750": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-441285-3420": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-113823-1071": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-772273-7942": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-428415-9810": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-955099-1725": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-439513-6198": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-398339-1128": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-228756-9920": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-981190-4901": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-141850-2430": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-146001-6828": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-494663-3100": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-209228-6799": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-873859-5030": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-209543-9981": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-554404-5283": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-252277": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-274134": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-773172": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-946820": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-851462": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-554414": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-530445": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-exfil-260333": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-recon-979074": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-privesc-709603": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-exfil-510290": {
+    "evt-exfil-375285": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-exfil-755238": {
+    "evt-exfil-298661": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-exfil-216154": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-293449": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-892135": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-979999": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-146803": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-privesc-788636": {
+    "evt-privesc-235488": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-cred-422588": {
+    "evt-recon-215391": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-cred-662711": {
       "label": 4,
       "attack_type": "credential_compromise"
     },
-    "evt-recon-375231": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-recon-214820": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-recon-575654": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-cred-696132": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-recon-360595": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-cred-298296": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-591716-3415": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-396195-1129": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-388777-5916": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-137258-7635": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-160641-4157": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-193646-3792": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-860777-1576": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-556279-4189": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-252434-7377": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-218909-3528": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-833751-2586": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-796484-4728": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-854812-8947": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-173916-7830": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-380012-9181": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-255789-8362": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-944523-7469": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-366828-2532": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-519772-7955": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-563545-6767": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-191405-7869": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-457632-1240": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-462891-8550": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-450389-6566": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-658141-3297": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-662859-8681": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-554732-4144": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-423127-7824": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-884547-4578": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-164342-9514": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-321245-6658": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-551544-6403": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-389896-3265": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-836506-6660": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-428520-9437": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-764346-9544": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-898391-6879": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-329384-7515": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-200721-7103": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-690299-9149": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-939367-8905": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-738231-2449": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-886662-8435": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-258666-8710": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-768603-8379": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-584647-7709": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-827356-2591": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-138268-2987": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-416797-3930": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-865374-8961": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-446291-4754": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-626073-3982": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-710327-1039": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-426940-5486": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-138885-7657": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-901850-7211": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-973188-7298": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-238747-3599": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-459100-2040": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-789763-7601": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-951925-2295": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-207435-7378": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-691052-7308": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-391637-6664": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-703279-9460": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-320272-2426": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-609780-1908": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-198625-2616": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-817742-4668": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-636111-2138": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-977741-4303": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-305161": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-recon-676412": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-566755-4090": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-113729-4639": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-918197-5905": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-942906-6059": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-308891-7774": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-240731": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-543976-6705": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-217189-7437": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-256838-7481": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-664863-7365": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-911841-7048": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-279929-8783": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-319675-4305": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-399362-5166": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-811164-1199": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-351790-3260": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-889185-3522": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-747254-1623": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-574414-6707": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-503384-5495": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-690844-5736": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-805053-3175": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-567345-3769": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-749355-1055": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-252161-9645": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-110014-5759": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-153596-8472": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-715953-4550": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-783589-4004": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-353385": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-exfil-137876": {
+    "evt-exfil-857979": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-exfil-261406": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-604974": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-775979": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-cred-592664": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-exfil-767861": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-privesc-111074": {
+    "evt-privesc-276307": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-cred-728751": {
+    "evt-privesc-455125": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-normal-162193-1531": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-405349-2144": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-940524-8729": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-928581-4498": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-609592-1613": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-690459-3042": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-407327-2865": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-504421-5187": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-792507-2881": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-828219-3536": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-702181-7967": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-163091-5595": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-901238-4842": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-746459-7724": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-735346-8240": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-483454-9941": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-197466-9457": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-438427-3535": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-556493-2560": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-745832-2997": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-579160-6551": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-904194-2604": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-142948-4008": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-191840-3532": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-968164-3813": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-177536-4245": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-322169-2242": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-393679-8321": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-538145-4591": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-204652-9405": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-447493-1474": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-745939-2997": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-534442-6887": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-297374-2603": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-217986-1186": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-665924-3428": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-524283-3059": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-631279-3690": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-972275-5771": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-885643-8891": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-670257-8745": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-976570-3751": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-732949-6715": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-244013-8465": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-186656-9557": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-330030-8706": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-475376-1721": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-119600": {
       "label": 4,
       "attack_type": "credential_compromise"
     },
-    "evt-exfil-597529": {
+    "evt-normal-296763-1553": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-953003-8489": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-161796-5179": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-704585": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-821826-6466": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-899413-1192": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-390548-4938": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-275393-9321": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-471821-1664": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-106497-2343": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-251537-4182": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-507378-2204": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-971867-4677": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-814777-6056": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-982607-2953": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-695893-1165": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-515253-5186": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-610786-2522": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-815028-3135": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-838824-5719": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-963618-1414": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-945459-2859": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-153274-9562": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-389690-2873": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-562324-2023": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-401955-2710": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-892410-9815": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-707598-7168": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-543242-3318": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-130850-2461": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-656062-4110": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-418058-4626": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-726380-3144": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-818376-6743": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-196859-3347": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-690796-4715": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-824132-9040": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-554951-6292": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-129602-7777": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-441779": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-116210-8711": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-665935-1846": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-703976-9555": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-887788-8601": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-813867-3432": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-976193-7843": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-606572-7535": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-309608-3886": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-234685-8983": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-127821-5846": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-561031-7973": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-198267-7499": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-354337-4854": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-102990-1181": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-218499-4981": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-499739": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-828593-1926": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-623972-2866": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-307784-8671": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-462608-3497": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-583293-7833": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-926428-9094": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-457430-7932": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-500283-5600": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-725741-8850": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-912481-3133": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-525934-5203": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-760142-6768": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-992988-3690": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-162880-7674": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-205699-2809": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-545838-2838": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-347873-9160": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-760855-5760": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-592025-4894": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-273295": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-121726": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-exfil-672840": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-privesc-513067": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-cred-450921": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-exfil-514813": {
+    "evt-exfil-849533": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-cred-663250": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-recon-883592": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-privesc-757526": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-privesc-581982": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-privesc-591967": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-cred-606136": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-recon-933403": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-recon-673646": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-cred-597526": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-418096-9936": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-955401-3059": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-462769-1696": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-259079-5182": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-200126-4179": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-798629-2095": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-200418-2380": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-589284-6529": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-153670-6043": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-749755-4776": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-873487-2233": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-883855-2494": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-693707-2582": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-222050-1387": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-163847-5518": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-842683-7438": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-559899-3531": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-451354-1871": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-964388-6497": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-923979-6993": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-827514-7999": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-731640": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-cred-872102": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-757012-1196": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-756083-2263": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-396194-5210": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-951011-7336": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-715778-5234": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-338903-3424": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-413691-8755": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-904211-4294": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-133542-4548": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-202047-4342": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-473121-3129": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-858358-4433": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-354167-2036": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-291668-1676": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-928117-6535": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-894754-1607": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-920391-3496": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-313287-8515": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-619859-7013": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-942355-8465": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-701070-9156": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-739053-1553": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-846130-4431": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-861023-4945": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-728772-8753": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-253963-1899": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-429413-7315": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-134739-6167": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-697693-1822": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-488436-5911": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-481240-9029": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-603503-4401": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-622463-1684": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-342899": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-360557-1244": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-591270-2077": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-210514-3176": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-404253-4555": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-183912-8138": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-413573-6767": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-695539-6443": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-895086-1916": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-955023-6227": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-642342-7472": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-335773-5048": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-732232-5202": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-358458-2233": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-703074-5310": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-170712-7375": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-325672-4960": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-694404-5332": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-132432-7304": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-405401-7880": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-422792-2383": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-727461-6217": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-231407-3030": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-655740-5367": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-332368-5544": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-164658-6962": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-671161-6582": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-171178-4080": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-925803-3575": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-825646-8805": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-855988-8965": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-302077-7809": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-514527-8897": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-468756-4419": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-218104-2022": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-233990-1655": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-875700-1143": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-159472-6852": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-452517-9444": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-220938-1670": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-281088-1238": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-528778-1453": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-287616-5536": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-189610-7911": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-117313-6317": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-762793-7817": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-502704-1355": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-552186-8781": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-233055-8144": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-636716-5014": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-918389-2966": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-621804-3782": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-905088-9788": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-384087-6862": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-704375-4246": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-257362-1175": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-846419-9223": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-326034-4790": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-235535-1220": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-398147": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-468615-3819": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-400833-4400": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-392805-7434": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-655570-1628": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-902256": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-306635-9077": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-776567": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-300128-9234": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-578676-8318": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-557266-9287": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-668495-1754": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-925046": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-cred-951175": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-exfil-420759": {
+    "evt-exfil-788918": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-cred-392829": {
-      "label": 4,
-      "attack_type": "credential_compromise"
+    "evt-recon-513363": {
+      "label": 3,
+      "attack_type": "reconnaissance"
     },
-    "evt-privesc-966445": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-privesc-525174": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-exfil-119270": {
+    "evt-exfil-968661": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-exfil-927713": {
+    "evt-privesc-331585": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-exfil-738183": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-recon-303114": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-exfil-138235": {
+    "evt-exfil-104599": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-exfil-936728": {
+    "evt-exfil-177096": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-cred-691420": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-exfil-651648": {
+    "evt-exfil-206702": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-privesc-514221": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
+    "evt-recon-930802": {
+      "label": 3,
+      "attack_type": "reconnaissance"
     },
-    "evt-exfil-793602": {
+    "evt-recon-445372": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-cred-160943": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-recon-330660": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-948747-7456": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-675667-9541": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-329253-8791": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-719282-6235": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-453813-9994": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-805798-1173": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-511800-7454": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-557748-5843": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-999963-9637": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-623580-9448": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-884146-1583": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-448861-4960": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-989663-4091": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-462329-7151": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-341486-5324": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-492611-5696": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-481728": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-591193-5911": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-615156-5545": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-179549-3209": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-874398-8844": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-980974-3611": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-576185-7370": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-599943-7344": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-808153-4883": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-200500": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-662652-2685": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-878267-5361": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-283804": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-165888-4876": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-940745-7684": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-528804-3119": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-416170-5239": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-856382-7808": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-733255-2074": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-679334-4435": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-194068-5083": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-186631-2312": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-539051-1733": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-976255-8015": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-376944-8840": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-786175-5295": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-877158-1789": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-774417-5374": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-941138-2031": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-118808-5821": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-811577-2760": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-710743-6412": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-664700-3678": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-981526-6940": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-944773-9578": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-913348-7340": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-180593-7180": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-317688-8006": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-990399-5849": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-236354-8789": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-738595-4173": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-155829-7972": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-387088-6147": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-606870-1875": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-429449-7094": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-463447-5494": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-929117-9881": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-672781-1625": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-158027-7281": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-570123-8701": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-901896-4262": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-608349-8224": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-423146-4643": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-334151-6667": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-340889-4628": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-744589-9894": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-788781-6994": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-367617-1527": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-472545-5453": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-365131-7079": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-903251-6699": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-349632-8760": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-374360-5189": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-937958-8366": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-144960-9135": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-818365-8391": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-235730-5488": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-894307-6891": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-764130-1954": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-184170-5143": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-885248-6741": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-778748-4898": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-255086-2069": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-103091-5393": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-128572-4215": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-589182": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-605487-7853": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-673556-2485": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-916123-3771": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-386781-9912": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-462707-8221": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-639537-4449": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-755766-3386": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-499780-4390": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-380866-5282": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-120063-7600": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-821828": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-881951-5943": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-601933-9665": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-402827-9332": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-114789-6096": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-236126-7431": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-285685-2702": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-914857": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-939956-8812": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-177620-4409": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-467059-7247": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-965374-5197": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-796808-2590": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-268826-8488": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-647965-1932": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-609285-4962": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-263217-7980": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-283987-5008": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-503245-9272": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-718299": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-896554": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-cred-903090": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-exfil-243162": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-recon-302552": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-privesc-456249": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-exfil-408800": {
+    "evt-exfil-917537": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-privesc-463191": {
+    "evt-privesc-858514": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-cred-467032": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-privesc-669613": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-cred-317274": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-recon-884464": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-828617-6536": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-735760-6841": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-564638-2721": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-827877-9869": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-782300-2389": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-117934-9307": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-813791-3685": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-995008-2655": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-445170-4059": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-179914-7803": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-718648-2107": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-360346-7643": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-702801": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-857357-8845": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-683634-8564": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-987980-2466": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-693155-3404": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-726900-9120": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-172147-1845": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-955412-8790": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-148257-6378": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-584110-6579": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-521703-3178": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-306449-2153": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-979193-1324": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-528080-7278": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-609517-6070": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-961190-2767": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-709809-5952": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-268128-7479": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-563652-2735": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-310698-6606": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-708415-6653": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-891176-2766": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-621692-4553": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-100902-9204": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-805413-6252": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-988679-9002": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-605329-7409": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-384560-6452": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-418539-2923": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-128986-1145": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-327086-6158": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-430291-7168": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-173246-4887": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-241656-2180": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-124352-1142": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-350362-1953": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-361156-3924": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-368543": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-652702-7048": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-447046-4614": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-895575-2123": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-983539-8730": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-924511-9690": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-158441-5942": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-251460": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-857110-7388": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-419695-8921": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-730051": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-432327-2336": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-614409-7899": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-827970-4271": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-447844-2225": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-290865-7866": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-914803-6736": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-738269-2304": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-982085-8839": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-972063-9594": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-879401-4114": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-998238": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-281908-5063": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-949641-8199": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-850663-8738": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-309950-2333": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-985808-9207": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-486322-5280": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-257849-1790": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-871403-7005": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-365927-3591": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-162219-7558": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-866946": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-901500-8560": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-609985-4919": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-878143-6254": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-952714-6914": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-962894-8061": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-803401-6715": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-191588-8013": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-150681-1170": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-320852": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-524861-8716": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-350752-8031": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-227935-5511": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-303940-5492": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-691973-1642": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-718378-9543": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-359129-4018": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-925040-7527": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-164521-3989": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-454119-5187": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-164488-3403": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-279416-4850": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-115681-2762": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-384771-8732": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-674829-8900": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-195407-6460": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-192706-4813": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-620400-3029": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-779145-7808": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-655488-5886": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-888120-8993": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-323432-3668": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-167748-1953": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-492645-3931": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-658255-7674": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-677306-9189": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-921808-2201": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-869727-6216": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-518480-6361": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-417768": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-cred-651559": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-privesc-248768": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-exfil-469283": {
+    "evt-exfil-159504": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-privesc-371157": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-cred-885047": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-privesc-104382": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-cred-717611": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-exfil-816359": {
+    "evt-exfil-719633": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-exfil-600128": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-privesc-197909": {
+    "evt-privesc-912303": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-117995": {
+    "evt-privesc-715796": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-533072": {
+    "evt-privesc-604740": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-819129": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-cred-986036": {
+    "evt-cred-394913": {
       "label": 4,
       "attack_type": "credential_compromise"
     },
-    "evt-privesc-840557": {
+    "evt-cred-339317": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-privesc-516170": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-887450": {
+    "evt-exfil-919976": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-exfil-667907": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-cred-911921": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-privesc-921173": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-recon-830582": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-privesc-479169": {
+    "evt-privesc-995167": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-347436": {
+    "evt-privesc-868757": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-cred-514865": {
+    "evt-cred-964215": {
       "label": 4,
       "attack_type": "credential_compromise"
     },
-    "evt-cred-429315": {
+    "evt-recon-202713": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-recon-925131": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-234515-5201": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-597848-8981": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-228277-9717": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-723649-5877": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-106133-4758": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-935199-2640": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-882317-2938": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-623938-5145": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-141924-5548": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-326015-5206": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-474479-3532": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-292684-2830": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-615854-6809": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-304524-6936": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-596017-8647": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-383843-9535": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-547621-8830": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-669961-8050": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-707060-4476": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-130252-8726": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-652208-1457": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-677144-6217": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-973681-1162": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-211756-7170": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-493205-4006": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-333085-7756": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-631718-5210": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-342521-6647": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-906198-3717": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-330343-4085": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-189541-5443": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-781514-7258": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-105104-5350": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-162008-5022": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-441866-6200": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-920627-4741": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-367975-1370": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-868276-4017": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-813050-6963": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-441925-9694": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-345827-7894": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-819215-8289": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-537218-9161": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-891361-4730": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-631121": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-811174-2776": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-340061-8846": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-103205-8235": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-947078-2182": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-553620-8766": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-937344-9788": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-151835-5324": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-200914-4875": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-160569-1751": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-188013-4088": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-770090-7177": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-901133-2474": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-135604-7020": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-694766-2448": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-168635-3633": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-947823-6798": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-251918-4264": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-650154-4190": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-725591-3005": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-763223-8772": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-454926-9546": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-996047-9389": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-606465-3015": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-935674-2945": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-780368-7168": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-865658": {
       "label": 4,
       "attack_type": "credential_compromise"
     },
-    "evt-recon-122664": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-recon-976349": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-101588-6887": {
+    "evt-normal-620496-4246": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-427200-8177": {
+    "evt-normal-624002-1571": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-910340-2474": {
+    "evt-normal-171023-3123": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-584217-2080": {
+    "evt-normal-345459-1980": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-491122-8893": {
+    "evt-normal-862967-8085": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-655186-1023": {
+    "evt-normal-544593-4370": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-876496-7385": {
+    "evt-normal-466679-8522": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-663990-3200": {
+    "evt-normal-693740-1641": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-876101-6815": {
+    "evt-normal-357150-7955": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-533233-4798": {
+    "evt-normal-754161-8420": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-587948-4906": {
+    "evt-normal-244780-2021": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-212384-2748": {
+    "evt-normal-814426-7050": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-564501-2356": {
+    "evt-normal-855911-4217": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-344126-6160": {
+    "evt-normal-728425-1274": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-884460-5255": {
+    "evt-normal-254256-7350": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-438615-4165": {
+    "evt-normal-206917-6136": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-403538-5520": {
+    "evt-normal-490939-9709": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-867121-3734": {
+    "evt-normal-356830-9902": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-982691-1399": {
+    "evt-normal-900817-8942": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-743687-6562": {
+    "evt-normal-489349-1398": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-524601-4834": {
+    "evt-normal-844893-7279": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-514875-6742": {
+    "evt-normal-819183-1303": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-966390-2975": {
+    "evt-normal-927531-9046": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-252764-5656": {
+    "evt-normal-773936-7853": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-578696-9488": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-284834-6582": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-472628-9455": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-308458-8542": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-871589-9224": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-471756-4342": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-981865-3766": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-267225-8257": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-956547-1191": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-820701-9633": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-830553": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-983133-8887": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-770750-8576": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-456492-6086": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-351027-2283": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-875414-8807": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-689132-6476": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-444382-5915": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-434350-9986": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-860675-7064": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-874320-9960": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-725199-7501": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-382285-3169": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-653726-6650": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-393286": {
+    "evt-cred-331928": {
       "label": 4,
       "attack_type": "credential_compromise"
     },
-    "evt-normal-519767-8416": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-444515-2798": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-524060-3383": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-316184-5859": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-637401-4988": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-257651-3516": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-657085-7586": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-887101-9338": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-674074-2446": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-231786-2702": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-389680-4411": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-903420-9358": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-887829-4146": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-874240-1891": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-852147-6885": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-296934": {
+    "evt-recon-698406": {
       "label": 3,
       "attack_type": "reconnaissance"
     },
-    "evt-normal-120918-1626": {
+    "evt-normal-865010-7675": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-730253-7213": {
+    "evt-normal-643578-5579": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-803289-7451": {
+    "evt-normal-497494-5077": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-187191-2551": {
+    "evt-normal-815876-5191": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-328220-3622": {
+    "evt-normal-275068-8407": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-796898-6706": {
+    "evt-normal-498389-7362": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-715551-6977": {
+    "evt-normal-417321-4274": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-241259-8956": {
+    "evt-normal-251901-2109": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-857281-2147": {
+    "evt-normal-691440-3515": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-646080-7253": {
+    "evt-normal-105099-9966": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-471862-9786": {
+    "evt-normal-355959-2308": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-608733-2379": {
+    "evt-normal-752015-4195": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-887855-1951": {
+    "evt-normal-128887-9435": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-728784-6608": {
+    "evt-normal-804946-1088": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-358505-8001": {
+    "evt-normal-421677-6173": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-722338-2061": {
+    "evt-normal-402045-1839": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-460947-6053": {
+    "evt-normal-404710-5807": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-215839-7905": {
+    "evt-normal-922753-9944": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-414322-9302": {
+    "evt-normal-913742-7953": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-478310-2062": {
+    "evt-normal-597535-2794": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-898565-9939": {
+    "evt-normal-729517-5302": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-610542-4275": {
+    "evt-normal-210428-6362": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-736646-7447": {
+    "evt-normal-804414-4350": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-normal-667101-2723": {
+    "evt-normal-427371-2994": {
       "label": 0,
       "attack_type": "normal"
     },
-    "evt-recon-606374": {
+    "evt-normal-697873-7728": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-648484-8210": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-153775-5839": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-548036-7185": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-214706-9647": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-248460-2631": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-775517": {
       "label": 3,
       "attack_type": "reconnaissance"
     },
-    "evt-normal-883714-4822": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-647032-3207": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-172868-9679": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-357151-4366": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-349193-4980": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-177520-9284": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-215412-5919": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-445906-9880": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-558930-2449": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-438631-8171": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-280039-5548": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-303650-1578": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-899608-9392": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-689384-7184": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-736046-9064": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-335806-2900": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-132722-5044": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-165490-8343": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-242002-1031": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-987588-7851": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-541923-5200": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-274407-6792": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-601015-7890": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-199457-2918": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-856686-5637": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-310134": {
+    "evt-recon-997109": {
       "label": 3,
       "attack_type": "reconnaissance"
     },
-    "evt-normal-648156-2969": {
-      "label": 0,
-      "attack_type": "normal"
+    "evt-recon-278743": {
+      "label": 3,
+      "attack_type": "reconnaissance"
     },
-    "evt-normal-736047-2462": {
-      "label": 0,
-      "attack_type": "normal"
+    "evt-recon-573400": {
+      "label": 3,
+      "attack_type": "reconnaissance"
     },
-    "evt-normal-902750-8456": {
-      "label": 0,
-      "attack_type": "normal"
+    "evt-exfil-673455": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
     },
-    "evt-normal-455234-7262": {
-      "label": 0,
-      "attack_type": "normal"
+    "evt-recon-291484": {
+      "label": 3,
+      "attack_type": "reconnaissance"
     },
-    "evt-normal-190207-3613": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-288370-7364": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-427816-7136": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-768500-6218": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-712121-9311": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-716553-6613": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-558690-4717": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-800556-3429": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-810148-4118": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-705095-7281": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-898602-1191": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-688869-7984": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-474279-8464": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-517454-4883": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-223962": {
+    "evt-cred-898247": {
       "label": 4,
       "attack_type": "credential_compromise"
     },
-    "evt-recon-611322": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-recon-348743": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-exfil-361063": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-484662": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-329440": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-cred-305703": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-exfil-477980": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-674571": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-388364": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-recon-488446": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-privesc-572611": {
+    "evt-privesc-614945": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-exfil-940633": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-exfil-821426": {
-      "label": 2,
-      "attack_type": "data_exfiltration"
-    },
-    "evt-cred-944019": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-cred-592844": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-privesc-364415": {
+    "evt-privesc-492254": {
       "label": 1,
       "attack_type": "privilege_escalation"
     },
-    "evt-privesc-147439": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-privesc-357627": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-privesc-199493": {
-      "label": 1,
-      "attack_type": "privilege_escalation"
-    },
-    "evt-recon-884320": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-470378-3281": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-421570-3328": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-414363-8974": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-841414-1691": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-791124-7553": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-767030": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-439287-6968": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-571660-2988": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-966298-6490": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-cred-686999": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-normal-815172-7641": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-812893-7023": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-396655-2104": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-594793-5433": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-802788-6168": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-780327-5794": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-612069-8636": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-843317-4724": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-873892-7227": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-275711-5952": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-662488-2904": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-686863-4179": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-929314-5668": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-750351-3597": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-615447-2051": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-490068-2604": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-301951-6844": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-969634-8595": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-208600-9580": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-346965-1043": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-147624-4477": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-667848-4346": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-140952-4929": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-298259-8114": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-387301-5501": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-146126-2645": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-575778-5485": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-143174-4376": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-617171-9853": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-199307-6128": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-339188-8323": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-403003-2668": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-715254-7805": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-755739-3480": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-323971-8681": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-110975-8686": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-748105-4954": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-181499-7463": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-629119-8574": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-229238-6211": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-478838-6011": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-322810-4787": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-576250-9976": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-135907-5819": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-162816-9919": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-197000-7939": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-569046-9224": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-862985-5274": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-953555-7963": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-568956-9382": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-981492": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-683993-4234": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-230156-2008": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-318653-2123": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-530668": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-252653-1727": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-752404-4688": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-897931-8785": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-864012-3402": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-928241-2862": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-338092-3831": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-809047-2413": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-836790-9459": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-878812-6004": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-349458-7276": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-998770-7288": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-794336-6994": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-895251-2429": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-466920-9898": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-639842-5315": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-416789-8206": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-726915-6176": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-208693": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-recon-797261": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-normal-205155-7903": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-983223-7424": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-958254-7346": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-345537-7170": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-257554-6433": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-956767-1033": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-874194-6595": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-699582-2497": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-158318-6249": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-539527-3789": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-normal-641843-6314": {
-      "label": 0,
-      "attack_type": "normal"
-    },
-    "evt-recon-888270": {
-      "label": 3,
-      "attack_type": "reconnaissance"
-    },
-    "evt-cred-525812": {
-      "label": 4,
-      "attack_type": "credential_compromise"
-    },
-    "evt-exfil-117208": {
+    "evt-exfil-711965": {
       "label": 2,
       "attack_type": "data_exfiltration"
     },
-    "evt-exfil-307374": {
+    "evt-recon-109552": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-recon-641621": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-exfil-962528": {
       "label": 2,
       "attack_type": "data_exfiltration"
+    },
+    "evt-exfil-429576": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-exfil-627618": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-exfil-867680": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-privesc-991489": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-recon-658747": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-recon-232998": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-exfil-747218": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-privesc-543486": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-cred-325897": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-privesc-321262": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-exfil-621416": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-recon-610443": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-exfil-948522": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-privesc-456908": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-privesc-378244": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-normal-866178-6381": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-447592-2187": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-307610-3903": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-497957-6152": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-751439-8731": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-784741-5232": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-729085-7064": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-292278-6377": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-785838-4881": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-706490-8902": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-734309-9969": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-143048-1311": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-317524": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-459821-7269": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-824056-8779": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-496442-1835": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-462075-9232": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-437619-8220": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-553697-4932": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-987483-3297": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-833571-5792": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-592424-7289": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-470098-7263": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-838451-2824": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-769258-2332": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-899673-9372": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-516342-7230": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-310270-3618": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-871125-7767": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-241815-1810": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-919194-5837": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-723146-8060": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-639328-8205": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-556033-1653": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-800728-6642": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-794976-8839": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-740848-5892": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-629212-1985": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-594533-9068": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-724233": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-900946-3780": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-246758-3434": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-605338-9451": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-919930-7323": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-405583-8553": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-866505-6103": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-383552-4551": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-641834-2676": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-576622-2906": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-858757-3147": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-920342-4901": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-926465-7764": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-943781-3509": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-947296-9623": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-517302-7628": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-413682-4283": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-382833-9423": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-389120-2760": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-972192-3378": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-437270-2998": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-830466-8505": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-785755-1528": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-733682-4405": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-413727-4671": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-736795": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-507168-5908": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-604868-5466": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-357420-3444": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-113380-3735": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-177061-3175": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-617198-1664": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-128679-9500": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-403349-1433": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-695060-8010": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-266149-8849": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-758633-6562": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-422693-1487": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-705295-9543": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-855643-4033": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-764780-2057": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-312450-8852": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-372081-9985": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-782953-3678": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-505114-7258": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-248514-6145": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-347647-2745": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-322177-5336": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-439517-9053": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-581639-2851": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-354659": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-720302-2536": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-445124-6567": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-813793": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-694183-8206": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-898470-8329": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-204614-7012": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-374002-8721": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-784912-8130": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-828589-5733": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-782373-8163": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-764020-7942": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-696769-2436": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-699291-3546": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-792426-3089": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-782114-1635": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-270031-2687": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-304451-4338": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-339902-4807": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-943646-1521": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-234806-7752": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-511949-8687": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-579982-3179": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-152186-1203": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-611779-9549": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-239545-2274": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-367798-1895": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-311256-8573": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-782643-4267": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-694003": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-exfil-972882": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-recon-443007": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-cred-330693": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-recon-367473": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-cred-852895": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-exfil-204854": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-privesc-726237": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-privesc-588239": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-privesc-169805": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-recon-575962": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-recon-670940": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-privesc-715380": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-privesc-104764": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-exfil-998466": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-privesc-127838": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-exfil-717496": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-recon-447736": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-exfil-815347": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-exfil-313143": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-exfil-880594": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-privesc-551190": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-exfil-686945": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-privesc-226281": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-exfil-787245": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-exfil-668018": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-exfil-773511": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-exfil-366848": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-privesc-549066": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-privesc-662066": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-recon-479227": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-cred-382161": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-965141-4871": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-478642-6794": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-449836-8450": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-816951-2130": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-805586-9908": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-669141-9108": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-908865-6988": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-409398-4015": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-151383-3891": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-192519-4027": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-870603-2286": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-979106-8421": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-351807-1775": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-783786": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-169149-8630": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-704420-9554": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-974995-5968": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-889023-8455": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-359568-3702": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-649636-7779": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-757655-4389": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-246390-9847": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-892935": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-436732-1825": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-698450-6985": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-492945-4668": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-333582-6027": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-996088-4652": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-984542-1277": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-272745-6701": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-848452-7680": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-458918-3977": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-690133-4166": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-782071-3592": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-936050": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-788540-9057": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-303589-7980": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-875066-7783": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-792210": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-646402-3196": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-350999-4978": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-124483-8510": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-469860-4020": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-444751-4808": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-594167-6420": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-460254-3677": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-885202-3817": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-464690-8866": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-944057-8398": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-413836-1471": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-748866-5085": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-503941-8814": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-417625": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-218720-9711": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-937026-6692": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-168688-4512": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-130889-2347": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-779810-8456": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-124889-8472": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-544005": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-212671-6374": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-398774-1543": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-532484-6887": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-590423-4078": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-975356-6299": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-336670-6476": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-329327-4775": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-879097-6845": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-196071-3981": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-843389-7967": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-409495-3547": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-721075-6098": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-877062-1428": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-159528-9552": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-266078-5296": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-473105-2179": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-224765-1969": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-564638": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-825386-9151": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-692926-1340": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-194473-9430": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-937707-1123": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-696217-8286": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-953711": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-491332-3672": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-547239-4499": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-cred-267895": {
+      "label": 4,
+      "attack_type": "credential_compromise"
+    },
+    "evt-normal-249541-7570": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-398242-6482": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-592061-3756": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-335718-4289": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-299605-3619": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-161207-8301": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-552870-6039": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-576114-4441": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-875204-1377": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-340503-5781": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-894504-1358": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-238882-1470": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-731320-3053": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-622343-3700": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-112180-2311": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-276489-6797": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-434043-3238": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-237492-5386": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-recon-319030": {
+      "label": 3,
+      "attack_type": "reconnaissance"
+    },
+    "evt-normal-164330-5313": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-488323-9952": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-174895-4328": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-712318-6225": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-normal-561398-2828": {
+      "label": 0,
+      "attack_type": "normal"
+    },
+    "evt-privesc-958952": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
+    },
+    "evt-exfil-731955": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-exfil-123019": {
+      "label": 2,
+      "attack_type": "data_exfiltration"
+    },
+    "evt-privesc-270316": {
+      "label": 1,
+      "attack_type": "privilege_escalation"
     }
   },
   "attack_type_mapping": {

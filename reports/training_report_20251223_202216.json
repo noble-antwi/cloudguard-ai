@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-12-23T20:22:16.010926",
+  "models": {
+    "isolation_forest": {
+      "model_type": "isolation_forest",
+      "total_samples": 1000,
+      "anomalies_detected": 75,
+      "anomaly_rate": 7.5,
+      "mean_anomaly_score": 0.7916148230580262,
+      "n_features": 17
+    },
+    "random_forest": {
+      "model_type": "random_forest",
+      "total_samples": 1000,
+      "validation_accuracy": 1.0,
+      "validation_f1": 1.0,
+      "cv_f1_mean": 1.0,
+      "cv_f1_std": 0.0,
+      "threats_detected": 180,
+      "n_features": 17,
+      "feature_importances": {
+        "is_write_operation": 0.19722205043856775,
+        "mfa_used": 0.18548957300911784,
+        "is_data_access": 0.16555076140408065,
+        "is_privileged_event": 0.09725692610086377,
+        "is_iam_event": 0.09081542338232458,
+        "is_business_hours": 0.06826852163571147,
+        "hour_of_day": 0.06479117305699864,
+        "is_reconnaissance": 0.036493862517875,
+        "time_since_last_activity": 0.024291159444597768,
+        "is_error": 0.024189161243779466,
+        "day_of_week": 0.01316578963107245,
+        "user_unique_ips": 0.011196574156921333,
+        "user_api_calls_per_hour": 0.011084855064170705,
+        "user_failed_calls": 0.008269257181536455,
+        "is_weekend": 0.0019149117323821634,
+        "user_unique_services": 0.0,
+        "is_aws_internal": 0.0
+      }
+    }
+  }
+}
